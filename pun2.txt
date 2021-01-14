@@ -1,2 +1,7 @@
+
+What’s the best way to learn about computers?
+Bit by bit.
+
 Why does programmers have perfect vision?
 Because they can C++
+
