@@ -1,0 +1,2 @@
+Why does programmers have perfect vision?
+Because they can C++
